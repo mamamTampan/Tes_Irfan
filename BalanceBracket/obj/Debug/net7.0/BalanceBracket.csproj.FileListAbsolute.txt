@@ -1,0 +1,14 @@
+C:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\bin\Debug\net7.0\BalanceBracket.exe
+c:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\bin\Debug\net7.0\BalanceBracket.deps.json
+c:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\bin\Debug\net7.0\BalanceBracket.runtimeconfig.json
+C:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\bin\Debug\net7.0\BalanceBracket.dll
+C:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\bin\Debug\net7.0\BalanceBracket.pdb
+C:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\obj\Debug\net7.0\BalanceBracket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\obj\Debug\net7.0\BalanceBracket.AssemblyInfoInputs.cache
+C:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\obj\Debug\net7.0\BalanceBracket.AssemblyInfo.cs
+C:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\obj\Debug\net7.0\BalanceBracket.csproj.CoreCompileInputs.cache
+C:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\obj\Debug\net7.0\BalanceBracket.dll
+C:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\obj\Debug\net7.0\refint\BalanceBracket.dll
+C:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\obj\Debug\net7.0\BalanceBracket.pdb
+c:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\obj\Debug\net7.0\BalanceBracket.genruntimeconfig.cache
+c:\Users\ALDI\Desktop\Tes_Irfan\BalanceBracket\obj\Debug\net7.0\ref\BalanceBracket.dll

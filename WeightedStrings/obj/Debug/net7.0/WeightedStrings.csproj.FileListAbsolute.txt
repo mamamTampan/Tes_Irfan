@@ -1,0 +1,14 @@
+C:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\bin\Debug\net7.0\WeightedStrings.exe
+c:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\bin\Debug\net7.0\WeightedStrings.deps.json
+c:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\bin\Debug\net7.0\WeightedStrings.runtimeconfig.json
+C:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\bin\Debug\net7.0\WeightedStrings.dll
+C:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\bin\Debug\net7.0\WeightedStrings.pdb
+C:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\obj\Debug\net7.0\WeightedStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\obj\Debug\net7.0\WeightedStrings.AssemblyInfoInputs.cache
+C:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\obj\Debug\net7.0\WeightedStrings.AssemblyInfo.cs
+C:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\obj\Debug\net7.0\WeightedStrings.csproj.CoreCompileInputs.cache
+C:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\obj\Debug\net7.0\WeightedStrings.dll
+C:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\obj\Debug\net7.0\refint\WeightedStrings.dll
+C:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\obj\Debug\net7.0\WeightedStrings.pdb
+c:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\obj\Debug\net7.0\WeightedStrings.genruntimeconfig.cache
+c:\Users\ALDI\Desktop\Tes_Irfan\WeightedStrings\obj\Debug\net7.0\ref\WeightedStrings.dll
